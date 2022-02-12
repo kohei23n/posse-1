@@ -1,1 +1,1 @@
-# posse-1
+# hackathon-promotion
